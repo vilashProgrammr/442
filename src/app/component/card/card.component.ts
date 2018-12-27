@@ -32,6 +32,7 @@ export class CardComponent {
       id: this.id,
     });
   }
+//THIS IS DHANANJAY HAREL
 
   setBackgroundStyle() {
     return {
